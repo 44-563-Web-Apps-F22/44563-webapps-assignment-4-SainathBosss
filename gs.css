@@ -73,3 +73,8 @@ th {
     filter: blur(1px);
   }
 
+  ul.navbar-horizontal li{
+    display:inline;
+    float:left;
+  }
+
