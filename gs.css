@@ -23,7 +23,7 @@
 
 .name {
     font-style: normal;
-  font-size: medium;
+  font-size:small;
   color: black;
 }
 .PHOEBE{
@@ -62,4 +62,12 @@ th {
     background-color: rgb(253, 3, 178);
     color: black;
 }
+
+.name:hover {
+    color:rgb(111, 255, 0);
+    background-color:rgba(105, 96, 56, 0.931);
+    text-shadow: 4px 4px 4px rgb(208, 200, 119);
+    border : 1 px solid black;
+    filter: blur(1px);
+  }
 
